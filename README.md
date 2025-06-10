@@ -1,4 +1,4 @@
-# CapBay Mamak Checkout System
+#  Mamak Checkout System
 
 This Laravel application implements a flexible checkout system for CapBay Mamak with configurable promotions. The system supports various promotion types including buy-one-get-one-free, bulk discounts, and combo promotions.
 
